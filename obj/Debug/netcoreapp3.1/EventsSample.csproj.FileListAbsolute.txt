@@ -1,0 +1,13 @@
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\EventsSample\bin\Debug\netcoreapp3.1\EventsSample.exe
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\EventsSample\bin\Debug\netcoreapp3.1\EventsSample.deps.json
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\EventsSample\bin\Debug\netcoreapp3.1\EventsSample.runtimeconfig.json
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\EventsSample\bin\Debug\netcoreapp3.1\EventsSample.runtimeconfig.dev.json
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\EventsSample\bin\Debug\netcoreapp3.1\EventsSample.dll
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\EventsSample\bin\Debug\netcoreapp3.1\EventsSample.pdb
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\EventsSample\obj\Debug\netcoreapp3.1\EventsSample.csprojAssemblyReference.cache
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\EventsSample\obj\Debug\netcoreapp3.1\EventsSample.AssemblyInfoInputs.cache
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\EventsSample\obj\Debug\netcoreapp3.1\EventsSample.AssemblyInfo.cs
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\EventsSample\obj\Debug\netcoreapp3.1\EventsSample.csproj.CoreCompileInputs.cache
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\EventsSample\obj\Debug\netcoreapp3.1\EventsSample.dll
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\EventsSample\obj\Debug\netcoreapp3.1\EventsSample.pdb
+C:\Karunasree\Humber\Net 012C#\Assignment\.Net022Exam\EventsSample\obj\Debug\netcoreapp3.1\EventsSample.genruntimeconfig.cache

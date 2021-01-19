@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GmOmu3GDkugX3SU3JILzVxzbSW/FHZQmM8yaC/u2VYBHiY2qyOE55cT7uzu96yvviaGTVV48spYFdAKjWLqoVg==",
+  "success": true,
+  "projectFilePath": "C:\\Karunasree\\Humber\\Net 012C#\\Assignment\\.Net022Exam\\EventsSample\\EventsSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sathi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\sathi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
