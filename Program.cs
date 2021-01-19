@@ -11,41 +11,42 @@ namespace EventsSample
 		public static void Main()
 		{
 			//Step 5 - Associate the event with the handler
-			var person = new Person();
-			person.name = "Joe Smith";
+			var invoke = new Invoke();
+			invoke.Text="Say Hello"
 
-			var alarm = new AlarmClock();
-			alarm.AlarmClockEvent += person.HandleAlarm;
+			var sayHello = new HelloClass();
+			sayHello.HelloEvent += HandleMessaage;
+				
 
-			//Step 6 - Causing the event to occur
-			alarm.Alarm();
+
+
+			
 		}
 	}
 
 	// Step 4 - Creating code that should occur when the event happens
-	public class Person
+	public class Invoke
 	{
-		public string name { get; set; }
+		public string Text { get; set; }
 
-		public void HandleAlarm(object sender, AlarmClockEventArgs e)
+		public void HandleMessage(object sender, SayHelloEventHandeler e)
 		{
-			Console.WriteLine("Get out of bed it's {0}", e.time);
+			Console.WriteLine("Message {0}", e.ToString());
 		}
 
 	}
 
 	// Step 3 - Declaring the code for the event
-	public class AlarmClock
+	public class HelloClass
 	{
 		public event SayHelloEventHandeler HelloEvent;
 
-		public void Alarm()
-		{
-			Console.WriteLine("Alarm went off!");
-			SayHelloEventHandeler alarm = HelloEvent;
+		public void Hello()
+		{			
+			SayHelloEventHandeler greeting = HelloEvent;
 			if (HelloEvent != null)
 			{
-				alarm(this, new SayHelloEventHandeler("Say Hello"));
+				greeting(this, new SayHelloEventArgs("Say Hello"));
 			}
 
 		}
